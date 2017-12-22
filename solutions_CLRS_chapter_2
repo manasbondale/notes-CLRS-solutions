@@ -1,0 +1,31 @@
+2.1 - 1
+2.1 - 2
+for j = 2 to A.length
+  key = A[j]
+  i=j-1
+  while i>0 and A[i]<key
+    A[i+1]=A[i]
+    i=i-1
+  A[i+1]=key
+2.1 - 3
+for all i in A[i]
+  if A[i] equals v return i
+return NIL
+
+Loop invariant: "v belongs to the section of the array yet to be searched"
+
+2.1 - 4
+Half adder
+Sum = A^B
+Carry = AB
+
+Full adder
+Sum = A^B^C
+Carry = AB + C(A^B)
+
+N-bit adder
+S0 = A0^B0
+C1 = A0B0
+For 1 to n
+Si = Ai^Bi^Ci
+Ci+1 = AiBi + Ci(Ai^Bi)

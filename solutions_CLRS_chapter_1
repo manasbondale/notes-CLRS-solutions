@@ -1,0 +1,24 @@
+1.1 - 1
+Sorting : Maintaining a growing dictionary which needs to be in alphabetical order will use sorting.
+Convex hull : Convex hulls can partially solve the 'travelling salesman problem'
+1.1 - 2
+Faster cars have higher maintenance costs. Therefore, besides, speed, the frugality of manufacturing also matters as a measure of efficiency
+1.1 - 3 --
+1.1 - 4
+Both Shortest Path and Travelling Salesman save fuel.
+A player in a game of hide and seek will use Shortest Path or Travelling Salesman depending on whether he is hiding or seeking (respectively).
+1.1 - 5
+Only the best solution will do :
+The goalkeeper estimating the trajectory of the football.
+Nearly best solution is enough :
+The striker shooting the ball anywhere between the goal posts.
+
+1.2 - 1
+Chess game.
+Abacus (Counting frame)
+1.2 - 2
+n = 2, 3 ... 26
+1.2 - 3
+n = 15
+2^n = 32768
+100n^2 = 22500
